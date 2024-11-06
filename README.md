@@ -38,7 +38,7 @@ Handwritten character recognition plays a significant role in automating documen
 ## Model Comparison
 | Model                  | Accuracy       | Strengths                        | Weaknesses                       |
 |------------------------|----------------|----------------------------------|----------------------------------|
-| **SVM (HoG + Crack)**  | **High (72%)** | Effective with high-dimensional data | Computationally intensive        |
+| **SVM + HOG**  | **High (81%)** | Effective with high-dimensional data | Computationally intensive        |
 | **Decision Tree**      | Moderate       | Easy to interpret                | Prone to overfitting             |
 | **k-NN**               | Low-Moderate   | Simple implementation            | Computationally expensive        |
 
